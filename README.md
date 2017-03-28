@@ -4,7 +4,7 @@ Tool to reserialize xcodeproj in Xcode native format. No more giant git diffs!
 
 This is useful for when xcodeproj pbxproj file was modified by some other tool and has been rewritten to XML.
 
-This tool is build using [XcKit](https://github.com/tomlokhorst/XcKit).
+This tool is build using [XcodeEdit](https://github.com/tomlokhorst/XcodeEdit).
 
 Usage
 -----

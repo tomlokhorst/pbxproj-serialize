@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import XcKit
+import XcodeEdit
 
 let args = CommandLine.arguments
 
