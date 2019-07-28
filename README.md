@@ -17,8 +17,15 @@ Usage
 Installation
 ------------
 
+### Building from source
+
 1. Clone the repository
 2. Build from source: `swift build --configuration=release`
+
+### [Mint](https://github.com/yonaskolb/mint)
+```
+$ mint install tomlokhorst/pbxproj-serialize
+```
 
 
 Licence & Credits
